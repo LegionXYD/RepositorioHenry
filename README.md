@@ -1,2 +1,0 @@
-# RepositorioHenry
-Cool Homework
